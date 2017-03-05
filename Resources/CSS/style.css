@@ -1,1 +1,15 @@
+*{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+}
 
+h1{
+  font-size: 50px;
+}
+
+.dl-link {
+  font-size: 16px;
+  color: red;
+}
