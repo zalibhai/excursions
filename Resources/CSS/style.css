@@ -2,14 +2,31 @@
   background-color: black;
   font-family: Verdana;
   text-align: center;
+}
+
+h1 {
+  font-size: 50px;
   color: white;
 }
 
-h1{
-  font-size: 50px;
+.copy, p, .footer{
+  color: white;
 }
 
-.dl-link {
+.copy{
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+}
+
+#link {
   font-size: 16px;
-  color: red;
+  color: aquamarine;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
 }
